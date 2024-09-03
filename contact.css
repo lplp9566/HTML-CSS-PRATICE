@@ -1,0 +1,20 @@
+body
+{
+    text-align: center;
+    margin: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+    
+}
+#name{
+    margin: 100px;
+    color: chartreuse;
+}
+input{
+    background-color: burlywood;
+}
+button{
+    background-color: bisque;
+}
+
+
